@@ -98,8 +98,13 @@ Answer: 16
 Explanation: The perimeter is the 16 yellow stripes in the image below:
 每一个陆地单元格的周长为4，当两单元格上下或者左右相邻时，令周长减2。
 
+#Sum of Two Integers
+Calculate the sum of two integers a and b, but you are not allowed to use the operator + and -.
 
+Example:
+Given a = 1 and b = 2, return 3.
 # leetcode
+leetcode
 leetcode
 leetcode
 leetcode
