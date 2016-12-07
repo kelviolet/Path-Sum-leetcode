@@ -155,8 +155,11 @@ Only two moves are needed (remember each move increments or decrements one eleme
 [1,2,3]  =>  [2,2,3]  =>  [2,2,2]
 求数组各元素与中位数差的绝对值之和
 
+#206. Reverse Linked List
+Reverse a singly linked list
 
 # leetcode
+leetcode
 leetcode
 leetcode
 leetcode
