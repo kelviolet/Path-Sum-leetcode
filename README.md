@@ -158,6 +158,12 @@ Only two moves are needed (remember each move increments or decrements one eleme
 #206. Reverse Linked List
 Reverse a singly linked list
 
+#83. Remove Duplicates from Sorted List
+Given a sorted linked list, delete all duplicates such that each element appear only once.
+
+For example,
+Given 1->1->2, return 1->2.
+Given 1->1->2->3->3, return 1->2->3.
 # leetcode
 leetcode
 leetcode
