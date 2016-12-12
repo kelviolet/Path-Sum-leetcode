@@ -184,6 +184,12 @@ Output: True
 
 Explanation: It's the substring "abc" four times. (And the substring "abcabc" twice.)
 
+#28. Implement strStr()
+Implement strStr().
+
+Returns the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.
+
+
 # leetcode
 leetcode
 leetcode
