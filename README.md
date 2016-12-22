@@ -207,6 +207,12 @@ According to the definition of LCA on Wikipedia: “The lowest common ancestor i
          /  \
          3   5
 For example, the lowest common ancestor (LCA) of nodes 2 and 8 is 6. Another example is LCA of nodes 2 and 4 is 2, since a node can be a descendant of itself according to the LCA definition.
+
+#24. Swap Nodes in Pairs
+Given a linked list, swap every two adjacent nodes and return its head.
+
+For example,
+Given 1->2->3->4, you should return the list as 2->1->4->3
 # leetcode
 leetcode
 leetcode
