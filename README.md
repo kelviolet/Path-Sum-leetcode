@@ -247,7 +247,15 @@ Note:
 Could you optimize your algorithm to use only O(k) extra space?
 
 
-# leetcode
+67. Add Binary
+
+Given two binary strings, return their sum (also a binary string).
+
+For example,
+a = "11"
+b = "1"
+Return "100".
+# leetcod
 leetcode
 leetcode
 leetcode
